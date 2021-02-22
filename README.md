@@ -1,3 +1,4 @@
 # git-exercise
 
-add something dmall
+add something small
+Hi!
